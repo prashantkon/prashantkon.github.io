@@ -222,6 +222,7 @@ input {
     font: roboto;
     color: black;
     background-color: white;
+    border-radius: 25px;
 }
 
 .title {
